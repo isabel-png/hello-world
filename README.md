@@ -4,7 +4,6 @@
 App which displays welcome message to user and allows user to change color of welcome message
 
 ### App Walk-though
-see repository
 <img src="pre-work.gif" width=200><br>
 
 ### Required User Stories
